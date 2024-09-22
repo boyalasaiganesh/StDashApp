@@ -38,7 +38,8 @@ or clone this repo and run `streamlit run core/app.py`
 
 
 </br></br>
-It utilizes the backend code from the below video-</br></br>
-![image](https://user-images.githubusercontent.com/59556194/140614517-89d72f85-cb53-40c2-98ab-6939b3b4ce81.png)
+Ouptput-</br></br>
+![image](![image](https://github.com/user-attachments/assets/13c8f42f-caba-4d8e-9c0f-82d8323f8fbd)
+)
 
 
