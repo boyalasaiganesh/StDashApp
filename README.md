@@ -39,7 +39,7 @@ or clone this repo and run `streamlit run core/app.py`
 
 </br></br>
 Ouptput-</br></br>
-(![WhatsApp Image 2024-09-22 at 12 11 53 PM](https://github.com/user-attachments/assets/cda06c8e-cfac-4fc5-841f-4bfb46f14d08)
+![WhatsApp Image 2024-09-22 at 12 11 53 PM](https://github.com/user-attachments/assets/cda06c8e-cfac-4fc5-841f-4bfb46f14d08)
 
 
 
