@@ -509,7 +509,7 @@ else:
 
     with st.sidebar:
         st.markdown(
-            'Stock Dashboard App </br>[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://studio.buymeacoffee.com/dashboard)',
+            'Stock Dashboard App </br>[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoffee.com/saiganeshboyala)',
             unsafe_allow_html=True,
         )
         selected_analysis = st.radio("Select Analysis", list(analysis_dict.keys()))
