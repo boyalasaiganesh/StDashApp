@@ -39,7 +39,8 @@ or clone this repo and run `streamlit run core/app.py`
 
 </br></br>
 Ouptput-</br></br>
-![image](![image](https://github.com/user-attachments/assets/13c8f42f-caba-4d8e-9c0f-82d8323f8fbd)
+![image](![image](![WhatsApp Image 2024-09-22 at 12 11 53 PM](https://github.com/user-attachments/assets/cda06c8e-cfac-4fc5-841f-4bfb46f14d08)
+)
 )
 
 
